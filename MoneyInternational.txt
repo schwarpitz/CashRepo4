@@ -1,0 +1,7 @@
+started implementing webservices MoneyInter.
+
+
+Some webservices implementtation.
+
+
+Finished impl.
