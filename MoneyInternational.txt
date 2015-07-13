@@ -1,1 +1,4 @@
 started implementing webservices MoneyInter.
+
+
+Some webservices implementtation.
